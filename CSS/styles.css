@@ -1,0 +1,48 @@
+body {
+  background-color: #c9b6e4;
+  margin:0;
+
+
+}
+
+h3 {
+  color: #120078;
+
+}
+
+h1{
+  top: 50%;
+    left: 50%;
+
+}
+.top-container{
+  background-color: #f6e5f5;
+  padding: 5%;
+  font-size: 110%;
+  text-align: center;
+  font-family: "Comic Sans MS, Comic Sans", cursive;
+  color: #583d72;
+}
+
+.middle-container{
+  background-color: #efbbcf;
+  padding: 5%;
+}
+
+.bottom-container{
+  background-color: #e1ccec;
+  padding: 5%;
+
+
+}
+
+.hobbies{
+  background-color: #e1ccec;
+  padding: 5%;
+  font-family: "Comic Sans MS, Comic Sans", cursive;
+  font-size: 110%;
+}
+
+.contact {
+  padding: 5%;
+}
